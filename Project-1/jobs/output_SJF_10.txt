@@ -1,0 +1,160 @@
+Trial #: 1
+Process_ID	Burst_time	Wait_time	complete_time
+3			20			0			20
+7			26			20			46
+6			34			46			80
+2			36			80			116
+4			51			116			167
+1			54			167			221
+10			54			221			275
+5			63			275			338
+8			63			338			401
+9			68			401			469
+
+Total wait time: 1664
+Average wait time: 166.4
+
+Trial #: 2
+Process_ID	Burst_time	Wait_time	complete_time
+5			28			0			28
+10			31			28			59
+2			33			59			92
+9			37			92			129
+4			44			129			173
+6			63			173			236
+1			72			236			308
+7			91			308			399
+8			93			399			492
+3			107			492			599
+
+Total wait time: 1916
+Average wait time: 191.6
+
+Trial #: 3
+Process_ID	Burst_time	Wait_time	complete_time
+3			32			0			32
+4			36			32			68
+9			52			68			120
+7			54			120			174
+1			60			174			234
+6			78			234			312
+2			93			312			405
+10			93			405			498
+8			99			498			597
+5			103			597			700
+
+Total wait time: 2440
+Average wait time: 244.0
+
+Trial #: 4
+Process_ID	Burst_time	Wait_time	complete_time
+4			23			0			23
+7			32			23			55
+2			49			55			104
+8			51			104			155
+6			60			155			215
+9			68			215			283
+1			74			283			357
+10			87			357			444
+5			91			444			535
+3			106			535			641
+
+Total wait time: 2171
+Average wait time: 217.1
+
+Trial #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+10			27			0			27
+7			33			27			60
+1			38			60			98
+8			52			98			150
+9			53			150			203
+4			65			203			268
+3			92			268			360
+6			94			360			454
+5			99			454			553
+2			103			553			656
+
+Total wait time: 2173
+Average wait time: 217.3
+
+Trial #: 6
+Process_ID	Burst_time	Wait_time	complete_time
+6			22			0			22
+10			36			22			58
+3			44			58			102
+4			52			102			154
+2			56			154			210
+5			73			210			283
+1			84			283			367
+8			96			367			463
+9			103			463			566
+7			108			566			674
+
+Total wait time: 2225
+Average wait time: 222.5
+
+Trial #: 7
+Process_ID	Burst_time	Wait_time	complete_time
+6			29			0			29
+7			29			29			58
+8			32			58			90
+1			43			90			133
+2			53			133			186
+3			54			186			240
+5			64			240			304
+10			79			304			383
+9			97			383			480
+4			107			480			587
+
+Total wait time: 1903
+Average wait time: 190.3
+
+Trial #: 8
+Process_ID	Burst_time	Wait_time	complete_time
+9			27			0			27
+8			35			27			62
+4			42			62			104
+5			73			104			177
+6			74			177			251
+10			87			251			338
+1			96			338			434
+2			99			434			533
+7			104			533			637
+3			105			637			742
+
+Total wait time: 2563
+Average wait time: 256.3
+
+Trial #: 9
+Process_ID	Burst_time	Wait_time	complete_time
+4			26			0			26
+10			26			26			52
+2			32			52			84
+7			35			84			119
+8			36			119			155
+5			51			155			206
+6			78			206			284
+1			79			284			363
+9			80			363			443
+3			101			443			544
+
+Total wait time: 1732
+Average wait time: 173.2
+
+Trial #: 10
+Process_ID	Burst_time	Wait_time	complete_time
+6			26			0			26
+2			35			26			61
+8			51			61			112
+7			59			112			171
+1			60			171			231
+10			61			231			292
+5			70			292			362
+9			71			362			433
+3			72			433			505
+4			76			505			581
+
+Total wait time: 2193
+Average wait time: 219.3
+

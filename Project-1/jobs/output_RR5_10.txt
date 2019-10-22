@@ -1,0 +1,160 @@
+Trial #: 1	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			54			366			420
+2			36			295			331
+3			20			145			165
+4			51			370			421
+5			63			395			458
+6			34			276			310
+7			26			245			271
+8			63			398			461
+9			68			401			469
+10			54			386			440
+
+Total wait time: 469
+Average wait time: 46.9
+
+Trial #: 2	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			72			446			518
+2			33			273			306
+3			107			492			599
+4			44			339			383
+5			28			245			273
+6			63			423			486
+7			91			493			584
+8			93			494			587
+9			37			332			369
+10			31			306			337
+
+Total wait time: 599
+Average wait time: 59.9
+
+Trial #: 3	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			60			449			509
+2			93			582			675
+3			32			280			312
+4			36			322			358
+5			103			597			700
+6			78			544			622
+7			54			438			492
+8			99			598			697
+9			52			447			499
+10			93			595			688
+
+Total wait time: 700
+Average wait time: 70.0
+
+Trial #: 4	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			74			493			567
+2			49			375			424
+3			106			535			641
+4			23			195			218
+5			91			539			630
+6			60			445			505
+7			32			288			320
+8			51			424			475
+9			68			490			558
+10			87			537			624
+
+Total wait time: 641
+Average wait time: 64.1
+
+Trial #: 5	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			38			305			343
+2			103			553			656
+3			92			543			635
+4			65			453			518
+5			99			554			653
+6			94			550			644
+7			33			297			330
+8			52			423			475
+9			53			425			478
+10			27			270			297
+
+Total wait time: 656
+Average wait time: 65.6
+
+Trial #: 6	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			84			523			607
+2			56			434			490
+3			44			348			392
+4			52			412			464
+5			73			495			568
+6			22			205			227
+7			108			566			674
+8			96			562			658
+9			103			568			671
+10			36			342			378
+
+Total wait time: 674
+Average wait time: 67.4
+
+Trial #: 7	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			43			330			373
+2			53			383			436
+3			54			386			440
+4			107			480			587
+5			64			425			489
+6			29			250			279
+7			29			254			283
+8			32			293			325
+9			97			483			580
+10			79			464			543
+
+Total wait time: 587
+Average wait time: 58.7
+
+Trial #: 8	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			96			623			719
+2			99			624			723
+3			105			633			738
+4			42			357			399
+5			73			539			612
+6			74			542			616
+7			104			638			742
+8			35			302			337
+9			27			265			292
+10			87			611			698
+
+Total wait time: 742
+Average wait time: 74.2
+
+Trial #: 9	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			79			431			510
+2			32			267			299
+3			101			443			544
+4			26			240			266
+5			51			365			416
+6			78			440			518
+7			35			284			319
+8			36			314			350
+9			80			443			523
+10			26			266			292
+
+Total wait time: 544
+Average wait time: 54.4
+
+Trial #: 10	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			60			442			502
+2			35			271			306
+3			72			502			574
+4			76			505			581
+5			70			497			567
+6			26			250			276
+7			59			462			521
+8			51			436			487
+9			71			509			580
+10			61			491			552
+
+Total wait time: 581
+Average wait time: 58.1
+

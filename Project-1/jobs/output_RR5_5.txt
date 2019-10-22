@@ -1,0 +1,110 @@
+Trial #: 1	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			65			177			242
+2			56			181			237
+3			54			177			231
+4			40			147			187
+5			27			120			147
+
+Total wait time: 242
+Average wait time: 48.4
+
+Trial #: 2	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			42			147			189
+2			56			161			217
+3			51			165			216
+4			41			159			200
+5			27			120			147
+
+Total wait time: 217
+Average wait time: 43.4
+
+Trial #: 3	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			51			151			202
+2			23			85			108
+3			47			149			196
+4			60			152			212
+5			31			128			159
+
+Total wait time: 212
+Average wait time: 42.4
+
+Trial #: 4	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			36			137			173
+2			45			148			193
+3			32			130			162
+4			55			153			208
+5			40			148			188
+
+Total wait time: 208
+Average wait time: 41.6
+
+Trial #: 5	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			28			100			128
+2			53			158			211
+3			45			148			193
+4			52			161			213
+5			35			133			168
+
+Total wait time: 213
+Average wait time: 42.6
+
+Trial #: 6	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			35			116			151
+2			37			131			168
+3			42			138			180
+4			56			140			196
+5			26			120			146
+
+Total wait time: 196
+Average wait time: 39.2
+
+Trial #: 7	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			68			169			237
+2			24			85			109
+3			46			162			208
+4			43			154			197
+5			56			173			229
+
+Total wait time: 237
+Average wait time: 47.4
+
+Trial #: 8	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			42			129			171
+2			27			102			129
+3			22			90			112
+4			54			141			195
+5			66			145			211
+
+Total wait time: 211
+Average wait time: 42.2
+
+Trial #: 9	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			46			139			185
+2			20			65			85
+3			60			150			210
+4			62			155			217
+5			29			110			139
+
+Total wait time: 217
+Average wait time: 43.4
+
+Trial #: 10	Quantum #: 5
+Process_ID	Burst_time	Wait_time	complete_time
+1			43			137			180
+2			69			165			234
+3			66			169			235
+4			23			95			118
+5			34			128			162
+
+Total wait time: 235
+Average wait time: 47.0
+
