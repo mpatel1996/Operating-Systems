@@ -1,0 +1,23 @@
+Page Frame Size 3
+******************
+FIFO average size: 19
+LRU average size: 19
+OPTIMAL average size: 14
+
+Page Frame Size 4
+******************
+FIFO average size: 16
+LRU average size: 16
+OPTIMAL average size: 11
+
+Page Frame Size 5
+******************
+FIFO average size: 13
+LRU average size: 13
+OPTIMAL average size: 10
+
+Page Frame Size 6
+******************
+FIFO average size: 10
+LRU average size: 11
+OPTIMAL average size: 8
