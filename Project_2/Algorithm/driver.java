@@ -56,7 +56,7 @@ class driver {
          outs[2][2] = optimal.pageFaults(currString, 5);
          outs[2][3] = optimal.pageFaults(currString, 6);
 
-         outPuts.write("Current String Is: "+ currString);
+         outPuts.write("String " + (i +1) + " Is: "+ currString);
          printOuts(outs);
       }
 
