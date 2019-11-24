@@ -1,6 +1,6 @@
-# Operating-Systems
-
-#Project_2(Page Replacement algorithm) Contains:
+# Project_2
+-------------------------------------------------
+# Project_2 Contains:
 - Algorithm Folder
 - Reference String
 - Example of outputs for all three Algorithms for each frame Sizes
