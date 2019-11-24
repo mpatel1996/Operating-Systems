@@ -1,6 +1,6 @@
 # Operating-Systems
 
-Project-1(Job optimizations) Contains:
+Project-1(Job Scheduler) Contains:
 - First Come First Serve
 - Round Robin
 - Shortest Job First
