@@ -79,23 +79,30 @@ class driver {
    
    private static void printOuts(int[][] outs) throws IOException {
       
-      outPuts.write("\nPage Frame Size 3 *");
-      outPuts.write("\n*******************");
+      outPuts.write("\n*******************************");
+      outPuts.write("\n*Faults for Page Frame Size 3 *");
+      outPuts.write("\n*******************************");
       outPuts.write("\nFIFO average size: " + outs[0][0]);
       outPuts.write("\nLRU average size: " + outs[1][0]);
       outPuts.write("\nOPTIMAL average size: " + outs[2][0]);
-      outPuts.write("\n\nPage Frame Size 4 *");
-      outPuts.write("\n*******************");
+     
+      outPuts.write("\n*******************************");
+      outPuts.write("\n*Faults for Page Frame Size 4 *");
+      outPuts.write("\n*******************************");
       outPuts.write("\nFIFO average size: " + outs[0][1]);
       outPuts.write("\nLRU average size: " + outs[1][1]);
       outPuts.write("\nOPTIMAL average size: " + outs[2][1]);
-      outPuts.write("\n\nPage Frame Size 5 *");
-      outPuts.write("\n*******************");
+     
+      outPuts.write("\n*******************************");
+      outPuts.write("\n*Faults for Page Frame Size 5 *"); 
+      outPuts.write("\n*******************************");
       outPuts.write("\nFIFO average size: " + outs[0][2]);
       outPuts.write("\nLRU average size: " + outs[1][2]);
       outPuts.write("\nOPTIMAL average size: " + outs[2][2]);
-      outPuts.write("\n\nPage Frame Size 6 *");
-      outPuts.write("\n*******************");
+      
+      outPuts.write("\n*******************************");
+      outPuts.write("\n*Faults for Page Frame Size 6 *");
+      outPuts.write("\n*******************************");
       outPuts.write("\nFIFO average size: " + outs[0][3]);
       outPuts.write("\nLRU average size: " + outs[1][3]);
       outPuts.write("\nOPTIMAL average size: " + outs[2][3]);
