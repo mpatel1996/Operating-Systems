@@ -12,3 +12,10 @@
 - lru.java
 - optimal.java
 
+
+# IMPORTANT
+If you would like to see output of frame for each strings, 
+Comment out the Sys.out.print from each algorithm files. 
+
+Otherwise, an example of the output is thrown into an output file
+named, <NameOfAlgo>_<pageFrameSize>_Output.txt
